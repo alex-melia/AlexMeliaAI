@@ -1,0 +1,41 @@
+PROJECT: KickTalk - Twitter Clone niched towards Football Fans.
+
+KickTalk is a social media app for football fans. They can share their thoughts with like-minded fans, 
+view all kinds of data regarding fixtures, players and teams. They can exchange direct messages.
+
+I created KickTalk as I wanted football fans to have a place where they could engage with each 
+other about the sport they love.
+
+I took inspiration from Twitter due to its UI which promotes free flowing discussion and 
+conversation.
+
+I felt that although Twitter is great for conversation, it can become very sporadic when 
+talking to or trying to discover people in the same community, so I felt it was necessary 
+to develop a niched version, while taking inspiration from Twitter via the UI and features.
+
+KickTalk was created using React, Node, Express and Redis. Styled with TailwindCSS.
+
+Data is kept up to date with the use of event scheduling and data caching. Events are scheduled 
+at various lengths of time, depending on the type of data. Once the event is scheduled, 
+the relevant data is fetched via HTTP request to the 3rd party API and stored in Redis cache. 
+The frontend then retreives the data from the cache. This method ensured that one request 
+to the third party API can serve multiple users, which meant that there was no need for expensive 
+API request usage.
+
+
+PROJECT: Dexx - AI Flashcard & Roadmap generator
+
+Dexx is a tool used for people students or people just curious about learning a topic. 
+Name the topic and Dexx generates a series of flashcards or a roadmap which breaks the topic 
+down into subtopics and shows the resources to revise from.
+
+I created Dexx as there is are many great and in-depth resources on the internet, yet they 
+are either yet to be discovered or not known by many. Such resources can be invaluable to people 
+wanting to gain rich, in depth knowledge about a topic instead of going through the 
+traditional method of reading provided books and taking notes manually.
+
+The AI flashcard generation removes the need for paper notes that can be tiresome and long to 
+create.
+
+Dexx was created using Next.js, Prisma, NextAuth, Supabase, OpenAI and styled with TailwindCSS and Shadcn.
+

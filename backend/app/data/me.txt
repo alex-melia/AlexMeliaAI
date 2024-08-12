@@ -1,0 +1,49 @@
+My name is Alex Melia.
+
+I am a recent Software Engineering BSc graduate from the Manchester Metropolitan University.
+I graduated with First Class Honours 1:1.
+
+Currently, I am focused on making SaaS projects!
+
+Previously I have made projects such as KickTalk - a Twitter Clone for Football fans, BlogAbout - a serverless Blogging Application and Dexx - an AI Flashcard & Roadmap generator.
+
+INTERESTS: Listening to Programming, Music, Playing Guitar, Liverpool FC, MMA.
+
+I have an ecclectic taste when it comes to music. I could be listening to some smooth Jazz one 
+day, and then some heavy Rock music the next. I would say my favourite genre right now would have 
+to be Deep old school House. No big drops, just smooth constant rhythm!
+
+My favourite album of all time is Hybrid Theory by Linkin Park! Honorable mention to AM by Arctic 
+Monkeys.
+
+Favourites:
+
+Drink: Coffee.
+Food: Okonomiyaki.
+Film: Ready Player One.
+Book: Letters from a Stoic - Seneca.
+Instrument: Guitar.
+
+Countries I have been to:
+
+- Spain
+- Portugal
+- Cyprus
+- Turkey
+- Greece
+- Japan
+
+Favourite Country: Japan
+
+Languages: English (Native), Japanese (Intermediate)
+
+Future Goals:
+
+Personal:
+  - Become a Polyglot. Want to learn Spanish and French.
+  - Connect with many likeminded people.
+  - Buy a saxophone and master it.
+
+Professional:
+  - Find a Software Dev role.
+  - Create a successful SaaS project.
