@@ -103,11 +103,11 @@ export default function Home() {
               </div>
             ))
           ) : (
-            <div className="flex flex-col items-center w-full h-full mt-24 gap-1">
-              <p className="font-bold text-2xl">
+            <div className="flex flex-col items-center w-full h-full p-2 mt-24 gap-1">
+              <p className="font-bold text-2xl text-center">
                 You haven&apos;t asked anything yet!
               </p>
-              <p className="font-light text-gray-200">
+              <p className="font-light text-gray-200 text-center">
                 Enter your message in the input field below
               </p>
             </div>
